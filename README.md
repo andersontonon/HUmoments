@@ -1,6 +1,6 @@
 
 ## Equipe
-- Anderson Willian Santos Tonon
+Anderson Willian Santos Tonon
 
 ## Repositório do Projeto
 https://github.com/andersontonon/HUmoments
