@@ -20,3 +20,7 @@ if __name__ == '__main__':
     rename_images(input_path)      
     splitfolders.ratio(input=input_path, output=output_path,
     seed=1337, ratio=(.8, .2), group_prefix=None, move=False) # default values      
+
+
+
+    
